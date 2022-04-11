@@ -1,0 +1,61 @@
+Algorithm :
+
+Step 1 : Using RANDOM function write a program for multiple time of flip a coin and get a singletcombination
+	Expected result :
+		Head
+		Tail
+		Head
+		Head
+
+Step 2 : Count Head and Tail values and then stored that values in dictionary and call the values from Dictionary
+
+
+Step 3 : Read the values from a dictionary and display the winning percentage of Head and winning percentage of Tail
+	Expected result :
+	EX:
+		Winning percentage of head : 30
+		Winning percentage of Tail : 10
+
+Step 4 : Using RANDOM function write a program for multiple time of flip a two coins and get a doublet combination
+        Expected result :
+		HH
+		HT
+		TH
+		TT
+
+Step 5 : Count the values for each four combination and then stored that values in dictionary and call the values from dictionary
+
+Step 6 : Read the values from a dictionary and display the winning percentage of HH, HT, TH and TT
+        Expected result :
+        EX:
+                Winning percentage of HH : 30
+                Winning percentage of HT : 10
+		Winning percentage of TH : 50
+                Winning percentage of TT : 30
+
+Step 4 : Using RANDOM function write a program for multiple time of flip a two coins and get a triplet combination
+        Expected result :
+                HHH
+                HHT
+                HTH
+                THH
+		TTT
+		TTH
+		THT
+		HTT
+
+Step 5 : Count the values for each eight combination and then stored that values in dictionary and call the values from dictionary
+
+Step 6 : Read the values from a dictionary and display the winning percentage of HHH, HHT, HTH, THH, TTT, TTH, THT AND HTT
+        Expected result :
+        EX:
+                Winning percentage of HHH : 30
+                Winning percentage of HHT : 10
+                Winning percentage of HTH : 40
+                Winning percentage of THH : 30
+		Winning percentage of TTT : 30
+                Winning percentage of TTH : 10
+                Winning percentage of THT : 20
+                Winning percentage of HTT : 30
+
+

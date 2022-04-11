@@ -1,0 +1,28 @@
+Algorithm :
+
+Step 1 : Create three userinput 
+	expected result :
+		Enter the first number :
+		Enter the second number:
+		Enter the third number :
+
+Step 2 : Assign a variable and performing arithmetic operation mentioned in the problem
+	Expected result :
+		EX: sum1=(a*b+c)
+
+Step 3 : Store the values in a Dictionary for each computation
+
+Step 4 : Read the values from Dictionary and display the each computation results in ascending order
+	Expected result :
+		25
+		35
+		65
+		112
+
+Step 5 : Read the values from Dictionary and display the each computation results in descending order
+	Expected result :
+		112
+		65
+		35
+		25
+			

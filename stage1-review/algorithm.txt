@@ -1,0 +1,26 @@
+Algorithm :
+
+Step 1 : List only java, python and java script files
+	 Expected result : x.java
+			   y.py
+			   z.js
+
+Step 2 : Find name of three files
+	 Expected output : x.java ==> x
+			   y.py   ==> y
+			   z.js   ==> z
+
+Step 3 : find name of the file extension
+	 Expected output : x.java ==> java
+                           y.py   ==> py
+                           z.js   ==> js
+
+Step 4 : Create a new folder as filename and within that create one subfolder as file extension name
+	 Expected output : x/java
+			   y/py
+			   z/js
+
+Step 5 : Move three original files into specific folder
+	 Expected output : x/java/x.java
+			   y/py/y.py
+			   z/js/z.js
